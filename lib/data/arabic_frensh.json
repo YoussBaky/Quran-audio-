@@ -1,0 +1,572 @@
+[
+    {
+        "title": "Al Fatiha",
+        "sourateNumber": 1,
+        "urlSong": "https://ia802806.us.archive.org/3/items/Coran-complet/001.Al-Fatiha.mp3"
+    },
+    {
+        "title": "Al Baqarah",
+        "sourateNumber": 2,
+        "urlSong": "https://archive.org/download/Coran-complet/002.Al-Baqarah.mp3"
+    },
+    {
+        "title": "Ali Imran",
+        "sourateNumber": 3,
+        "urlSong": "https://archive.org/download/Coran-complet/003.Ali-Imran.mp3"
+    },
+    {
+        "title": "An Nisa",
+        "sourateNumber": 4,
+        "urlSong": "https://archive.org/download/Coran-complet/004.An-Nisa.mp3"
+    },
+    {
+        "title": "Al Maidah",
+        "sourateNumber": 5,
+        "urlSong": "https://archive.org/download/Coran-complet/005.Al-Maidah.mp3"
+    },
+    {
+        "title": "Al Anaan",
+        "sourateNumber": 6,
+        "urlSong": "https://archive.org/download/Coran-complet/006.Al-Anaam.mp3"
+    },
+    {
+        "title": "Al Araf",
+        "sourateNumber": 7,
+        "urlSong": "https://archive.org/download/Coran-complet/007.Al-Araf.mp3"
+    },
+    {
+        "title": "Al Anfal",
+        "sourateNumber": 8,
+        "urlSong": "https://archive.org/download/Coran-complet/008.Al-Anfal.mp3"
+    },
+    {
+        "title": "Al Tawbah",
+        "sourateNumber": 9,
+        "urlSong": "https://archive.org/download/Coran-complet/009.At-Tawbah.mp3"
+    },
+    {
+        "title": "Yunus",
+        "sourateNumber": 10,
+        "urlSong": "https://archive.org/download/Coran-complet/010.Yunus.mp3"
+    },
+    {
+        "title": "Hud",
+        "sourateNumber": 11,
+        "urlSong": "https://archive.org/download/Coran-complet/011.Hud.mp3"
+    },
+    {
+        "title": "Yusuf",
+        "sourateNumber": 12,
+        "urlSong": "https://archive.org/download/Coran-complet/012.Yusuf.mp3"
+    },
+    {
+        "title": "Ar Raad",
+        "sourateNumber": 13,
+        "urlSong": "https://archive.org/download/Coran-complet/013.Ar-Raad.mp3"
+    },
+    {
+        "title": "Ibrahim",
+        "sourateNumber": 14,
+        "urlSong": "https://archive.org/download/Coran-complet/014.Ibrahim.mp3"
+    },
+    {
+        "title": "Al Hijr",
+        "sourateNumber": 15,
+        "urlSong": "https://archive.org/download/Coran-complet/015.Al-Hijr.mp3"
+    },
+    {
+        "title": "An Nahl",
+        "sourateNumber": 16,
+        "urlSong": "https://archive.org/download/Coran-complet/016.An-Nahl.mp3"
+    },
+    {
+        "title": "Al Isra",
+        "sourateNumber": 17,
+        "urlSong": "https://archive.org/download/Coran-complet/017.Al-Isra.mp3"
+    },
+    {
+        "title": "Al Kahf",
+        "sourateNumber": 18,
+        "urlSong": "https://archive.org/download/Coran-complet/018.Al-Kahf.mp3"
+    },
+    {
+        "title": "Maryam",
+        "sourateNumber": 19,
+        "urlSong": "https://archive.org/download/Coran-complet/019.Maryam.mp3"
+    },
+    {
+        "title": "Ta Ha",
+        "sourateNumber": 20,
+        "urlSong": "https://archive.org/download/Coran-complet/020.Ta-Ha.mp3"
+    },
+    {
+        "title": "Al Anbiya",
+        "sourateNumber": 21,
+        "urlSong": "https://archive.org/download/Coran-complet/021.Al-Anbiya.mp3"
+    },
+    {
+        "title": "Al Hajj",
+        "sourateNumber": 22,
+        "urlSong": "https://archive.org/download/Coran-complet/022.Al-Hajj.mp3"
+    },
+    {
+        "title": "Al Muminum",
+        "sourateNumber": 23,
+        "urlSong": "https://archive.org/download/Coran-complet/023.Al-Muminun.mp3"
+    },
+    {
+        "title": "An Nur",
+        "sourateNumber": 24,
+        "urlSong": "https://archive.org/download/Coran-complet/024.An-Nur.mp3"
+    },
+    {
+        "title": "Al Furqan",
+        "sourateNumber": 25,
+        "urlSong": "https://archive.org/download/Coran-complet/025.Al-Furqan.mp3"
+    },
+    {
+        "title": "As Shuaraa",
+        "sourateNumber": 26,
+        "urlSong": "https://archive.org/download/Coran-complet/026.As-Shuaraa.mp3"
+    },
+    {
+        "title": "An Naml",
+        "sourateNumber": 27,
+        "urlSong": "https://archive.org/download/Coran-complet/027.An-Naml.mp3"
+    },
+    {
+        "title": "Al Qasas",
+        "sourateNumber": 28,
+        "urlSong": "https://archive.org/download/Coran-complet/028.Al-Qasas.mp3"
+    },
+    {
+        "title": "Al Ankabut",
+        "sourateNumber": 29,
+        "urlSong": "https://archive.org/download/Coran-complet/029.Al-Ankabut.mp3"
+    },
+    {
+        "title": "Ar Rum",
+        "sourateNumber": 30,
+        "urlSong": "https://archive.org/download/Coran-complet/030.Ar-Rum.mp3"
+    },
+    {
+        "title": "Luqman",
+        "sourateNumber": 31,
+        "urlSong": "https://archive.org/download/Coran-complet/031.Luqman.mp3"
+    },
+    {
+        "title": "As Sajda",
+        "sourateNumber": 32,
+        "urlSong": "https://archive.org/download/Coran-complet/032.As-Sajda.mp3"
+    },
+    {
+        "title": "Al Ahzab",
+        "sourateNumber": 33,
+        "urlSong": "https://archive.org/download/Coran-complet/033.Al-Ahzab.mp3"
+    },
+    {
+        "title": "Saba",
+        "sourateNumber": 34,
+        "urlSong": "https://archive.org/download/Coran-complet/034.Saba.mp3"
+    },
+    {
+        "title": "Fatir",
+        "sourateNumber": 35,
+        "urlSong": "https://archive.org/download/Coran-complet/035.Fatir.mp3"
+    },
+    {
+        "title": "Ya Sin",
+        "sourateNumber": 36,
+        "urlSong": "https://archive.org/download/Coran-complet/036.Ya-Sin.mp3"
+    },
+    {
+        "title": "As Saffat",
+        "sourateNumber": 37,
+        "urlSong": "https://archive.org/download/Coran-complet/037.As-Saffat.mp3"
+    },
+    {
+        "title": "Sad",
+        "sourateNumber": 38,
+        "urlSong": "https://archive.org/download/Coran-complet/038.Sad.mp3"
+    },
+    {
+        "title": "Az Zumar",
+        "sourateNumber": 39,
+        "urlSong": "https://archive.org/download/Coran-complet/039.Az-Zumar.mp3"
+    },
+    {
+        "title": "Gafir",
+        "sourateNumber": 40,
+        "urlSong": "https://archive.org/download/Coran-complet/040.Gafir.mp3"
+    },
+    {
+        "title": "Fussilat",
+        "sourateNumber": 41,
+        "urlSong": "https://archive.org/download/Coran-complet/041.Fussilat.mp3"
+    },
+    {
+        "title": "Achoura",
+        "sourateNumber": 42,
+        "urlSong": "https://archive.org/download/Coran-complet/042.Achoura.mp3"
+    },
+    {
+        "title": "Az Zukhruf",
+        "sourateNumber": 43,
+        "urlSong": "https://archive.org/download/Coran-complet/043.Az-Zukhruf.mp3"
+    },
+    {
+        "title": "Ad Dukhan",
+        "sourateNumber": 44,
+        "urlSong": "https://archive.org/download/Coran-complet/044.Ad-Dukhan.mp3"
+    },
+    {
+        "title": "Al Jathya",
+        "sourateNumber": 45,
+        "urlSong": "https://archive.org/download/Coran-complet/045.Al-Jathya.mp3"
+    },
+    {
+        "title": "Al Ahqaf",
+        "sourateNumber": 46,
+        "urlSong": "https://archive.org/download/Coran-complet/046.Al-Ahqaf.mp3"
+    },
+    {
+        "title": "Muhammad",
+        "sourateNumber": 47,
+        "urlSong": "https://archive.org/download/Coran-complet/047.Muhammad.mp3"
+    },
+    {
+        "title": "Al Fath",
+        "sourateNumber": 48,
+        "urlSong": "https://archive.org/download/Coran-complet/048.Al-Fath.mp3"
+    },
+    {
+        "title": "Al Hujurat",
+        "sourateNumber": 49,
+        "urlSong": "https://archive.org/download/Coran-complet/049.Al-Hujurat.mp3"
+    },
+    {
+        "title": "Qaf",
+        "sourateNumber": 50,
+        "urlSong": "https://archive.org/download/Coran-complet/050.Qaf.mp3"
+    },
+    {
+        "title": "Ad Dariyat",
+        "sourateNumber": 51,
+        "urlSong": "https://archive.org/download/Coran-complet/051.Ad-Dariyat.mp3"
+    },
+    {
+        "title": "At Tur",
+        "sourateNumber": 52,
+        "urlSong": "https://archive.org/download/Coran-complet/052.At-Tur.mp3"
+    },
+    {
+        "title": "An Najm",
+        "sourateNumber": 53,
+        "urlSong": "https://archive.org/download/Coran-complet/053.An-Najm.mp3"
+    },
+    {
+        "title": "Al Qamar",
+        "sourateNumber": 54,
+        "urlSong": "https://archive.org/download/Coran-complet/054.Al-Qamar.mp3"
+    },
+    {
+        "title": "Ar Rahman",
+        "sourateNumber": 55,
+        "urlSong": "https://archive.org/download/Coran-complet/055.Ar-Rahman.mp3"
+    },
+    {
+        "title": "Al Waqia",
+        "sourateNumber": 56,
+        "urlSong": "https://archive.org/download/Coran-complet/056.Al-Waqia.mp3"
+    },
+    {
+        "title": "al Hadid",
+        "sourateNumber": 57,
+        "urlSong": "https://archive.org/download/Coran-complet/057.Al-Hadid.mp3"
+    },
+    {
+        "title": "Al Mujadalah",
+        "sourateNumber": 58,
+        "urlSong": "https://archive.org/download/Coran-complet/058.Al-Mujadalah.mp3"
+    },
+    {
+        "title": "Al Hashr",
+        "sourateNumber": 59,
+        "urlSong": "https://archive.org/download/Coran-complet/059.Al-Hashr.mp3"
+    },
+    {
+        "title": "Al Mumtahanah",
+        "sourateNumber": 60,
+        "urlSong": "https://archive.org/download/Coran-complet/060.Al-Mumtahanah.mp3"
+    },
+    {
+        "title": "As Saff",
+        "sourateNumber": 61,
+        "urlSong": "https://archive.org/download/Coran-complet/061.As-Saff.mp3"
+    },
+    {
+        "title": "Al Jumua",
+        "sourateNumber": 62,
+        "urlSong": "https://archive.org/download/Coran-complet/062.Al-Jumua.mp3"
+    },
+    {
+        "title": "Al Munafiqun",
+        "sourateNumber": 63,
+        "urlSong": "https://archive.org/download/Coran-complet/063.Al-Munafiqun.mp3"
+    },
+    {
+        "title": "At Tagabun",
+        "sourateNumber": 64,
+        "urlSong": "https://archive.org/download/Coran-complet/064.At-Tagabun.mp3"
+    },
+    {
+        "title": "At Takaq",
+        "sourateNumber": 65,
+        "urlSong": "https://archive.org/download/Coran-complet/065.At-Talaq.mp3"
+    },
+    {
+        "title": "At Tahrim",
+        "sourateNumber": 66,
+        "urlSong": "https://archive.org/download/Coran-complet/066.At-Tahrim.mp3"
+    },
+    {
+        "title": "Al Mulk",
+        "sourateNumber": 67,
+        "urlSong": "https://archive.org/download/Coran-complet/067.Al-Mulk.mp3"
+    },
+    {
+        "title": "Al Qalam",
+        "sourateNumber": 68,
+        "urlSong": "https://archive.org/download/Coran-complet/068.Al-Qalam.mp3"
+    },
+    {
+        "title": "Al Haqqah",
+        "sourateNumber": 69,
+        "urlSong": "https://archive.org/download/Coran-complet/069.Al-Haqqah.mp3"
+    },
+    {
+        "title": "Al Maarij",
+        "sourateNumber": 70,
+        "urlSong": "https://archive.org/download/Coran-complet/070.Al-Maarij.mp3"
+    },
+    {
+        "title": "Nuh",
+        "sourateNumber": 71,
+        "urlSong": "https://archive.org/download/Coran-complet/071.Nuh.mp3"
+    },
+    {
+        "title": "Al Jinn",
+        "sourateNumber": 72,
+        "urlSong": "https://archive.org/download/Coran-complet/072.Al-Jinn.mp3"
+    },
+    {
+        "title": "Al Muzzamil",
+        "sourateNumber": 73,
+        "urlSong": "https://archive.org/download/Coran-complet/073.Al-Muzzamil.mp3"
+    },
+    {
+        "title": "Al Muddattir",
+        "sourateNumber": 74,
+        "urlSong": "https://archive.org/download/Coran-complet/074.Al-Muddattir.mp3"
+    },
+    {
+        "title": "Al Qiyamah",
+        "sourateNumber": 75,
+        "urlSong": "https://archive.org/download/Coran-complet/075.Al-Qiyamah.mp3"
+    },
+    {
+        "title": "Al Insan",
+        "sourateNumber": 76,
+        "urlSong": "https://archive.org/download/Coran-complet/076.Al-Insan.mp3"
+    },
+    {
+        "title": "Al Mursalat",
+        "sourateNumber": 77,
+        "urlSong": "https://archive.org/download/Coran-complet/077.Al-Mursalat.mp3"
+    },
+    {
+        "title": "An Naba",
+        "sourateNumber": 78,
+        "urlSong": "https://archive.org/download/Coran-complet/078.An-Naba.mp3"
+    },
+    {
+        "title": "An Naziat",
+        "sourateNumber": 79,
+        "urlSong": "https://archive.org/download/Coran-complet/079.An-Naziat.mp3"
+    },
+    {
+        "title": "Abasa",
+        "sourateNumber": 80,
+        "urlSong": "https://archive.org/download/Coran-complet/080.Abasa.mp3"
+    },
+    {
+        "title": "At Takwir",
+        "sourateNumber": 81,
+        "urlSong": "https://archive.org/download/Coran-complet/081.At-Takwir.mp3"
+    },
+    {
+        "title": "Al Infitar",
+        "sourateNumber": 82,
+        "urlSong": "https://archive.org/download/Coran-complet/082.Al-Infitar.mp3"
+    },
+    {
+        "title": "Al Mutaffifun",
+        "sourateNumber": 83,
+        "urlSong": "https://archive.org/download/Coran-complet/083.Al-Mutaffifun.mp3"
+    },
+    {
+        "title": "Al Insiqaq",
+        "sourateNumber": 84,
+        "urlSong": "https://archive.org/download/Coran-complet/084.Al-Insiqaq.mp3"
+    },
+    {
+        "title": "Al Buruj",
+        "sourateNumber": 85,
+        "urlSong": "https://archive.org/download/Coran-complet/085.Al-Buruj.mp3"
+    },
+    {
+        "title": "At Tariq",
+        "sourateNumber": 86,
+        "urlSong": "https://archive.org/download/Coran-complet/086.At-Tariq.mp3"
+    },
+    {
+        "title": "Al Ala",
+        "sourateNumber": 87,
+        "urlSong": "https://archive.org/download/Coran-complet/087.Al-Ala.mp3"
+    },
+    {
+        "title": "Al Gashiyah",
+        "sourateNumber": 88,
+        "urlSong": "https://archive.org/download/Coran-complet/088.Al-Gashiyah.mp3"
+    },
+    {
+        "title": "Al Fajr",
+        "sourateNumber": 89,
+        "urlSong": "https://archive.org/download/Coran-complet/089.Al-Fajr.mp3"
+    },
+    {
+        "title": "Al Balad",
+        "sourateNumber": 90,
+        "urlSong": "https://archive.org/download/Coran-complet/090.Al-Balad.mp3"
+    },
+    {
+        "title": "Ach Chams",
+        "sourateNumber": 91,
+        "urlSong": "https://archive.org/download/Coran-complet/091.Ach-Chams.mp3"
+    },
+    {
+        "title": "Al Layl",
+        "sourateNumber": 92,
+        "urlSong": "https://archive.org/download/Coran-complet/092.Al-Layl.mp3"
+    },
+    {
+        "title": "Ad Duha",
+        "sourateNumber": 93,
+        "urlSong": "https://archive.org/download/Coran-complet/093.Ad-Duha.mp3"
+    },
+    {
+        "title": "Al Inshirah",
+        "sourateNumber": 94,
+        "urlSong": "https://archive.org/download/Coran-complet/094.Al-Inshirah.mp3"
+    },
+    {
+        "title": "At Tin",
+        "sourateNumber": 95,
+        "urlSong": "https://archive.org/download/Coran-complet/095.At-Tin.mp3"
+    },
+    {
+        "title": "Al Alaq",
+        "sourateNumber": 96,
+        "urlSong": "https://archive.org/download/Coran-complet/096.Al-Alaq.mp3"
+    },
+    {
+        "title": "Al Qadr",
+        "sourateNumber": 97,
+        "urlSong": "https://archive.org/download/Coran-complet/097.Al-Qadr.mp3"
+    },
+    {
+        "title": "Al Bayyinah",
+        "sourateNumber": 98,
+        "urlSong": "https://archive.org/download/Coran-complet/098.Al-Bayyinah.mp3"
+    },
+    {
+        "title": "Az Zalzalah",
+        "sourateNumber": 99,
+        "urlSong": "https://archive.org/download/Coran-complet/099.Az-Zalzalah.mp3"
+    },
+    {
+        "title": "Al Adiyat",
+        "sourateNumber": 100,
+        "urlSong": "https://archive.org/download/Coran-complet/100.Al-Adiyat.mp3"
+    },
+    {
+        "title": "Al Qariah",
+        "sourateNumber": 101,
+        "urlSong": "https://archive.org/download/Coran-complet/101.Al-Qariah.mp3"
+    },
+    {
+        "title": "At Takatur",
+        "sourateNumber": 102,
+        "urlSong": "https://archive.org/download/Coran-complet/102.At-Takatur.mp3"
+    },
+    {
+        "title": "Al Asr",
+        "sourateNumber": 103,
+        "urlSong": "https://archive.org/download/Coran-complet/103.Al-Asr.mp3"
+    },
+    {
+        "title": "Al Humazah",
+        "sourateNumber": 104,
+        "urlSong": "https://archive.org/download/Coran-complet/104.Al-Humazah.mp3"
+    },
+    {
+        "title": "Al Fil",
+        "sourateNumber": 105,
+        "urlSong": "https://archive.org/download/Coran-complet/105.Al-Fil.mp3"
+    },
+    {
+        "title": "Qoraish",
+        "sourateNumber": 106,
+        "urlSong": "https://archive.org/download/Coran-complet/106.Qoraish.mp3"
+    },
+    {
+        "title": "Al Maun",
+        "sourateNumber": 107,
+        "urlSong": "https://archive.org/download/Coran-complet/107.Al-Maun.mp3"
+    },
+    {
+        "title": "Al Kwatar",
+        "sourateNumber": 108,
+        "urlSong": "https://archive.org/download/Coran-complet/108.Al-Kawtar.mp3"
+    },
+    {
+        "title": "Al Kafirun",
+        "sourateNumber": 109,
+        "urlSong": "https://archive.org/download/Coran-complet/109.Al-Kafirun.mp3"
+    },
+    {
+        "title": "An Nasr",
+        "sourateNumber": 110,
+        "urlSong": "https://archive.org/download/Coran-complet/110.An-Nasr.mp3"
+    },
+    {
+        "title": "Al Masad",
+        "sourateNumber": 111,
+        "urlSong": "https://archive.org/download/Coran-complet/111.Al-Masad.mp3"
+    },
+    {
+        "title": "Al Ihlas",
+        "sourateNumber": 112,
+        "urlSong": "https://archive.org/download/Coran-complet/112.Al-Ihlas.mp3"
+    },
+    {
+        "title": "Al Falaq",
+        "sourateNumber": 113,
+        "urlSong": "https://archive.org/download/Coran-complet/113.Al-Falaq.mp3"
+    },
+    {
+        "title": "An Nas",
+        "sourateNumber": 114,
+        "urlSong": "https://archive.org/download/Coran-complet/114.An-Nas.mp3"
+    }
+]
